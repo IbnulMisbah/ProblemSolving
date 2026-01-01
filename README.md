@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ibnul Misbah</h1>
 
 <p align="center">
-  <b>Problem Solver | Competitive Programmer | C++ Enthusiast</b>
+  <b>Problem Solver | Competitive Programmer | Tech Enthusiast</b>
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 </p>
 
 ---
-
-## ✨ About This Repository
+<h2 align="center">🎯 Road to Grandmaster & Problem Solving Mastery 🏆</h2>
+<h3 align="center">✨ About This Repository</h3>
 
 📌 Welcome to my **Competitive Programming Hub**.  
 This repository is a collection of my problem-solving journey across multiple online judges.
@@ -35,7 +35,7 @@ it's about **how to think**.
 ---
 
 
-## 🎯 Road to Grandmaster & Problem Solving Mastery | 2026 Edition 🏆
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=2026%20Daily%20Commit%20Challenge&fontSize=50&animation=fadeIn" />
