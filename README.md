@@ -31,19 +31,10 @@ This repo is not just about solutions —
 it's about **how to think**.
 
 ---
----
----
-
-
-
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=2026%20Daily%20Commit%20Challenge&fontSize=50&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Days_Consistency-365%2F365-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Problems_Solved-1000+-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Days_Consistency-365%2F2-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Problems_Solved-2+-blue?style=for-the-badge&logo=c++" />
   <img src="https://img.shields.io/badge/Goal-Red%20Coder-red?style=for-the-badge" />
 </p>
 
@@ -63,6 +54,21 @@ Welcome to my repository! 🌟 In 2026, I committed myself to solving at least o
 ### 🛠️ Platforms & Directory Map
 I have organized my solutions by platform. Each directory contains a specific `README` with detailed problem links and explanations.
 
+## 🏆 Platforms Covered
+
+| Platform | Description |
+|--------|------------|
+| [🟢 **Codeforces**](.codeforces) | Regular contests & practice problems |
+| [🔴 **LeetCode**](.leetcode) | Interview & algorithm practice |
+| [🔵 **CodeChef**](.leetcode) | Beginner to advanced challenges |
+| [🟤 **HackerRank**](./HackerRank) | Language proficiency and basic logic. |
+| [🟣 **DimikOJ**](.dimikoj) | Bangla-based problem solving |
+| [🟠 **VJudge**](.vjudge) | Virtual contests & problem sets |
+| [⚫ **AtCoder**](.atcoder) | Best beginner friendly contests |
+
+---
+
+<!--
 | Directory | Platform | Description |
 | :--- | :--- | :--- |
 | [📂 Codeforces](./Codeforces) | **Codeforces** | Contest solutions (Div. 2, Div. 3) & Topic-wise problems. |
@@ -70,52 +76,36 @@ I have organized my solutions by platform. Each directory contains a specific `R
 | [📂 DimikOJ](./DimikOJ) | **DimikOJ** | Fundamental problems for beginners in Bangla. |
 | [📂 CodeChef](./CodeChef) | **CodeChef** | Monthly challenge solutions and ratings. |
 | [📂 VJudge](./VJudge) | **VJudge** | Combined contest problems and group practices. |
-| [📂 HackerRank](./HackerRank) | **HackerRank** | Language proficiency and basic logic. |
 
----
----
+--->
 
-## 🏆 Platforms Covered
+<h2 align="center">  🛠️ Languages and Tools</h2>
 
-| Platform | Description |
-|--------|------------|
-| 🟢 **Codeforces** | Regular contests & practice problems |
-| 🔵 **CodeChef** | Beginner to advanced challenges |
-| 🟣 **DimikOJ** | Bangla-based problem solving |
-| 🟠 **VJudge** | Virtual contests & problem sets |
-| 🔴 **LeetCode** | Interview & algorithm practice |
-
----
-
-## 🛠 Languages & Tools
-
-### 🛠️ Languages and Tools
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
 ---
+
+### 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c">
   <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B">
-  <img src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=git">
-  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -148,7 +138,7 @@ I have organized my solutions by platform. Each directory contains a specific `R
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://github.com/IbnulMisbah">
@@ -159,9 +149,22 @@ I have organized my solutions by platform. Each directory contains a specific `R
 ---
 
 ### ⭐ If you find this repository helpful, consider giving it a star!
-It motivates me to keep improving 💙
 
 
+### 📫 Connect with Me 🤝
+Let's discuss algorithms or collaborate on projects!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINK])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_LINK])
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[YOUR_LINK])
+
+---
+<p align="center">
+  <b>Don't forget to leave a star ⭐ if you find my solutions helpful!</b><br>
+  <i>It motivates me to keep improving. Happy Coding! 2026 is our year</i>
+</p>
+
+---
 
 <!---
 
@@ -186,23 +189,6 @@ To verify my progress, feel free to visit my profiles:
 
 ---
 
-
-
-### 📫 Connect with Me
-Let's discuss algorithms or collaborate on projects!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINK])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_LINK])
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[YOUR_LINK])
-
----
-<p align="center">
-  <b>Don't forget to leave a ⭐ if you find my solutions helpful!</b><br>
-  <i>Happy Coding 💻 2026 is our year!</i>
-</p>
-
----
-
 ![Codeforces](https://img.shields.io/badge/Codeforces-1f1f1f?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
@@ -217,7 +203,6 @@ Let's discuss algorithms or collaborate on projects!
 ---
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
