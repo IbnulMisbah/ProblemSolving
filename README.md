@@ -189,7 +189,7 @@ To verify my progress, feel free to visit my profiles:
 </p>
 
 ---
-
+---
 ![Codeforces](https://img.shields.io/badge/Codeforces-1f1f1f?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
