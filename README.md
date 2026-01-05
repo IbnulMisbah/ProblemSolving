@@ -177,7 +177,7 @@ To verify my progress, feel free to visit my profiles:
   <a href="https://codeforces.com/profile/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
   <a href="https://leetcode.com/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://www.codechef.com/users/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/[ibnulmisbah]"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
 
 ---
