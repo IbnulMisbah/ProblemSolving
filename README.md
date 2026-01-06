@@ -162,7 +162,8 @@ Let's discuss algorithms or collaborate on projects!
 ---
 <p align="center">
   <b>Don't forget to leave a star ⭐ if you find my solutions helpful!</b><br>
-  <i>It motivates me to keep improving. Happy Coding! 2026 is our year</i>
+  <i>It motivates me to keep improving. Happy Coding 👨‍💻</i>
+    <i>2026 is ours.</i>
 </p>
 
 ---
