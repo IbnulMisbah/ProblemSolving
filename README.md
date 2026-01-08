@@ -58,13 +58,13 @@ I have organized my solutions by platform. Each directory contains a specific `R
 
 | Platform | Description |
 |--------|------------|
-| [🟢 **Codeforces**](.codeforces) | Regular contests & practice problems |
-| [🔴 **LeetCode**](.leetcode) | Interview & algorithm practice |
-| [🔵 **CodeChef**](.leetcode) | Beginner to advanced challenges |
-| [🟤 **HackerRank**](./HackerRank) | Language proficiency and basic logic. |
-| [🟣 **DimikOJ**](.dimikoj) | Bangla-based problem solving |
-| [🟠 **VJudge**](.vjudge) | Virtual contests & problem sets |
-| [⚫ **AtCoder**](.atcoder) | Best beginner friendly contests |
+| [🟢**Codeforces**](.codeforces) | Regular contests & practice problems |
+| [🔴**LeetCode**](.leetcode) | Interview & algorithm practice |
+| [🔵**CodeChef**](.leetcode) | Beginner to advanced challenges |
+| [🟤**HackerRank**](./HackerRank) | Language proficiency and basic logic. |
+| [🟣**DimikOJ**](.dimikoj) | Bangla-based problem solving |
+| [🟠**VJudge**](.vjudge) | Virtual contests & problem sets |
+| [⚫**AtCoder**](.atcoder) | Beginner friendly contests |
 
 ---
 
