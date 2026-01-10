@@ -90,7 +90,7 @@ I have organized my solutions by platform. Each directory contains a specific `R
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
----
+<!---
 
 ### 🛠 Languages & Tools
 
@@ -107,6 +107,7 @@ I have organized my solutions by platform. Each directory contains a specific `R
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+--->
 ---
 
 ## 📅 2026 Mission 🚀
@@ -155,11 +156,15 @@ I have organized my solutions by platform. Each directory contains a specific `R
 ### 📫 Connect with Me 🤝
 Let's discuss algorithms or collaborate on projects!
 
+<!--
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINK])
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_LINK])
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[YOUR_LINK])
 
+--->
 ---
+
 <p align="center">
   <b>Don't forget to leave a star ⭐ if you find my solutions helpful!</b><br>
   <i>It motivates me to keep improving. Happy Coding 👨‍💻 2026 is ours.</i>
