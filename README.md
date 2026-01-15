@@ -33,8 +33,8 @@ it's about **how to think**.
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Days_Consistency-365%2F14-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Problems_Solved-14-blue?style=for-the-badge&logo=c++" />
+  <img src="https://img.shields.io/badge/Days_Consistency-365%2F15-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Problems_Solved-15-blue?style=for-the-badge&logo=c++" />
   <img src="https://img.shields.io/badge/Goal-Red%20Coder-red?style=for-the-badge" />
 </p>
 
