@@ -33,9 +33,9 @@ it's about **how to think**.
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Days_Consistency-365%2F26-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Days_Consistency-365%2F27-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Problems_Solved-25-blue?style=for-the-badge&logo=c++" />
-  <img src="https://img.shields.io/badge/Goal-Red%22Coder-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Red%27Coder-red?style=for-the-badge" />
 </p>
 
 ---
