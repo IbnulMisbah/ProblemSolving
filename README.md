@@ -20,10 +20,10 @@
 <!-- <h4 align="center">📌 Welcome to my Competitive Programming Hub.</h4> -->
 <p align="center">
   This repository is a collection of my problem-solving journey across multiple online judges. In 2026, I committed myself to solving at least one problem every single day. This repo serves as a digital archive of my thoughts, logic, and implementations across various competitive programming platforms.
-    <i> "Consistency is the DNA of mastery." — My philosophy for 2026.</i>
 </p>
 
-Here, I focus on:
+### Here, I focus on:
+
 - 💡 **Clear problem-solving ideas**
 - ⚡ **Efficient and optimized solutions**
 - 📘 **Clean & readable code**
@@ -34,17 +34,17 @@ This repo is not just about solutions —  it's about **how to think**.
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Days_Consistency-365%2F28-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Days_Consistency-365%2F25-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Problems_Solved-25-blue?style=for-the-badge&logo=c++" />
   <img src="https://img.shields.io/badge/Goal-Red%27Coder-red?style=for-the-badge" />
 </p>
 
 ---
 
-### 🛠️ Platforms & Directory Map
+<h3 align="center"> 🛠️ Platforms & Directory Map </h3>
 I have organized my solutions by platform. Each directory contains a specific `README` with detailed problem links and explanations.
 
-## 🏆 Platforms Covered
+#### 🏆 Platforms Covered
 
 | Platform | Description |
 |--------|------------|
@@ -69,7 +69,7 @@ I have organized my solutions by platform. Each directory contains a specific `R
 
 --->
 
-<h2 align="center">  🛠️ Languages and Tools</h2>
+<h3 align="center">  🛠️ Languages and Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white">
@@ -100,7 +100,7 @@ I have organized my solutions by platform. Each directory contains a specific `R
 --->
 ---
 
-## 📅 2026 Mission 🚀
+<h3 align="center"> 📅 2026 Mission 🚀 </h3>
 
 🎯 **Daily GitHub Commit — Entire Year**  
 🎯 Improve Algorithmic Thinking  
@@ -111,17 +111,7 @@ I have organized my solutions by platform. Each directory contains a specific `R
 
 ---
 
-<!--
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbnulMisbah&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnulMisbah&layout=compact&theme=tokyonight" height="160">
-</p>
-
---->
-
-## 🔥 Contribution Philosophy
+<h3 align="center"> 🔥 Contribution Philosophy </h3>
 
 - 🧠 **Think before coding**
 - ✍️ **Explain ideas clearly**
@@ -130,26 +120,10 @@ I have organized my solutions by platform. Each directory contains a specific `R
 
 ---
 
-##  Connect With Me
-
-<p align="left">
-  <a href="https://github.com/IbnulMisbah">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
+<h3 align="center">📊 Competitive Profiles ⚡</h3>
 
 <p align="center">
-  <b>Don't forget to leave a star ⭐ if you find my solutions helpful!</b>
-  <i>It motivates me to keep improving. Happy Coding 👨‍💻 2026 is ours.</i>
-</p>
-
----
-
-<h3 align="center">📊 Competitive Profiles </h3>
-<p align="center">
-   <b>To verify my progress, feel free to visit my profiles:</b>
+   To verify my progress, feel free to visit my profiles:
 
 <p align="center">
   <a href="https://codeforces.com/profile/IbnulMisbah"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
@@ -160,12 +134,32 @@ I have organized my solutions by platform. Each directory contains a specific `R
 
 ---
 
-### ⭐ If you find this repository helpful, consider giving it a star!
+<h3 align="center"> 📫 Connect with Me 🤝 </h3>
+<p align="center">
+  Let's discuss algorithms or collaborate on projects!
+</p>
+<p align="center">
+  <a href="https://github.com/IbnulMisbah">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://t.me/ibnulmisbah">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 
+---
 
-### 📫 Connect with Me 🤝
-Let's discuss algorithms or collaborate on projects!
+<p align="center">
+  <b>Don't forget to leave a star ⭐ if you find my solutions helpful!</b>
+</p>
+<p align="center">
+  <i>It motivates me to keep improving.</i>
+</p>
+<p align="center">
+  <i>Happy Coding 👨‍💻 2026 is ours.</i>
+</p>
 
+---
 <!--
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINK])
@@ -180,6 +174,15 @@ Let's discuss algorithms or collaborate on projects!
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IbnulMisbah&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IbnulMisbah&theme=radical&hide_border=true" />
+</p>
+
+---
+<!--
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IbnulMisbah&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnulMisbah&layout=compact&theme=tokyonight" height="160">
 </p>
 
 ---
@@ -203,8 +206,6 @@ Let's discuss algorithms or collaborate on projects!
 ---
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
