@@ -16,12 +16,10 @@
 
 ---
 <h2 align="center">🎯 Road to Grandmaster & Problem Solving Mastery 🏆</h2>
-<h3 align="center">✨ About This Repository</h3>
-
-<h4 align="center">📌 Welcome to my **Competitive Programming Hub**.</h4>
+<h3 align="center">✨ About This Repository 🌟</h3>
+<!-- <h4 align="center">📌 Welcome to my Competitive Programming Hub.</h4> -->
 <p align="center">
-  <b>This repository is a collection of my problem-solving journey across multiple online judges.</b>
-  <b>Welcome to my repository! 🌟 In 2026, I committed myself to solving at least one problem every single day. This repo serves as a digital archive of my thoughts, logic, and implementations across various competitive programming platforms.</b>
+  This repository is a collection of my problem-solving journey across multiple online judges. In 2026, I committed myself to solving at least one problem every single day. This repo serves as a digital archive of my thoughts, logic, and implementations across various competitive programming platforms.
     <i> "Consistency is the DNA of mastery." — My philosophy for 2026.</i>
 </p>
 
