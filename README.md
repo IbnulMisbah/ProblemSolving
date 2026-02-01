@@ -18,8 +18,12 @@
 <h2 align="center">🎯 Road to Grandmaster & Problem Solving Mastery 🏆</h2>
 <h3 align="center">✨ About This Repository</h3>
 
-📌 Welcome to my **Competitive Programming Hub**.  
-This repository is a collection of my problem-solving journey across multiple online judges.
+<h4 align="center">📌 Welcome to my **Competitive Programming Hub**.</h4>
+<p align="center">
+  <b>This repository is a collection of my problem-solving journey across multiple online judges.</b>
+  <b>Welcome to my repository! 🌟 In 2026, I committed myself to solving at least one problem every single day. This repo serves as a digital archive of my thoughts, logic, and implementations across various competitive programming platforms.</b>
+    <i> "Consistency is the DNA of mastery." — My philosophy for 2026.</i>
+</p>
 
 Here, I focus on:
 - 💡 **Clear problem-solving ideas**
@@ -27,8 +31,7 @@ Here, I focus on:
 - 📘 **Clean & readable code**
 - 🧠 **Math-heavy and logical approaches**
 
-This repo is not just about solutions —  
-it's about **how to think**.
+This repo is not just about solutions —  it's about **how to think**.
 
 ---
 
@@ -40,17 +43,6 @@ it's about **how to think**.
 
 ---
 
-### 📖 About This Journey
-Welcome to my repository! 🌟 In 2026, I committed myself to solving at least one problem every single day. This repo serves as a digital archive of my thoughts, logic, and implementations across various competitive programming platforms.
-
-> "Consistency is the DNA of mastery." — My philosophy for 2026.
-
----
----
----
-
-
-
 ### 🛠️ Platforms & Directory Map
 I have organized my solutions by platform. Each directory contains a specific `README` with detailed problem links and explanations.
 
@@ -58,13 +50,13 @@ I have organized my solutions by platform. Each directory contains a specific `R
 
 | Platform | Description |
 |--------|------------|
-| [🟢**Codeforces**](.codeforces) | Regular contests & practice problems |
-| [🔴**LeetCode**](.leetcode) | Interview & algorithm practice |
-| [🔵**CodeChef**](.leetcode) | Beginner to advanced challenges |
-| [🟤**HackerRank**](./HackerRank) | Language proficiency and basic logic. |
-| [🟣**DimikOJ**](.dimikoj) | Bangla-based problem solving |
-| [🟠**VJudge**](.vjudge) | Virtual contests & problem sets |
-| [⚫**AtCoder**](.atcoder) | Beginner friendly contests |
+| [🟢**Codeforces**](.Codeforces) | Regular contests & practice problems |
+| [🔴**LeetCode**](.LeetCode) | Interview & algorithm practice |
+| [🔵**CodeChef**](.CodeChef) | Beginner to advanced challenges |
+| [🟤**HackerRank**](.HackerRank) | Language proficiency and basic logic. |
+| [🟣**DimikOJ**](.DimikOJ) | Bangla-based problem solving |
+| [🟠**VJudge**](.VJudge) | Virtual contests & problem sets |
+| [⚫**AtCoder**](.AtCoder) | Beginner friendly contests |
 
 ---
 
@@ -150,6 +142,26 @@ I have organized my solutions by platform. Each directory contains a specific `R
 
 ---
 
+<p align="center">
+  <b>Don't forget to leave a star ⭐ if you find my solutions helpful!</b>
+  <i>It motivates me to keep improving. Happy Coding 👨‍💻 2026 is ours.</i>
+</p>
+
+---
+
+<h3 align="center">📊 Competitive Profiles </h3>
+<p align="center">
+   <b>To verify my progress, feel free to visit my profiles:</b>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/IbnulMisbah"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ibnulmisbah"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/ibnulmisbah"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/ibnulmisbah"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+</p>
+
+---
+
 ### ⭐ If you find this repository helpful, consider giving it a star!
 
 
@@ -163,29 +175,8 @@ Let's discuss algorithms or collaborate on projects!
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[YOUR_LINK])
 
 --->
----
-
-<p align="center">
-  <b>Don't forget to leave a star ⭐ if you find my solutions helpful!</b><br>
-  <i>It motivates me to keep improving. Happy Coding 👨‍💻 2026 is ours.</i>
-</p>
-
----
 
 <!---
-
-
-### 📊 Competitive Profiles
-To verify my progress, feel free to visit my profiles:
-
-<p align="center">
-  <a href="https://codeforces.com/profile/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://leetcode.com/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/[YOUR_USERNAME]"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/[ibnulmisbah]"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-</p>
-
----
 
 ### ⚡ My GitHub Stats
 <p align="center">
