@@ -1,0 +1,8 @@
+*
+!*.cpp
+!*.c
+!*.py
+!*.java
+!README.md
+!.gitignore
+
