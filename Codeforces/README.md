@@ -1,8 +1,8 @@
 
-<h1 align="center"> 👋 Hi, Developer! </h1>
+<h1 align="center"> 👋 Hi, Developers! </h1>
 
-<h3 align="center"> This reposetory contains all of my **Codeforces** codes and solutions.</h3>
-<h4 align="center"> Feel free to explore my **Codes** and **Thoughts**.</h4>
+<h3 align="center"> This reposetory contains all of my Codeforces codes and solutions.</h3>
+<h4 align="center"> Feel free to explore my Codes and Thoughts.</h4>
 
 
 ---
