@@ -8,6 +8,6 @@ This Community made some owesome [problem lists](https://codeforces.com/group/MW
 
 I have started my problem solving journey by solving these problems. 
 
-I hope if you are a beginner you will enjoy [these problems](https://codeforces.com/group/MWSDmqGsZm/contest/219158).
+I hope if you are a beginner, you will enjoy [these problems](https://codeforces.com/group/MWSDmqGsZm/contest/219158).
 
 > Let's start the journey.
