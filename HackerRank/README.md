@@ -14,36 +14,40 @@ This collection showcases my problem-solving journey on HackerRank, featuring so
 ```
 HackerRank/
 ├── C/                          # C language solutions
-│   ├── [Problem Categories]/
-│   └── [Individual Problem Files]
+│   ├── 01.HelloWorld.c
+│   └── 02.PlayingWithChar.c
 │
 ├── CPP/                        # C++ language solutions
-│   ├── [Problem Categories]/
-│   └── [Individual Problem Files]
+│   ├── 01.HelloWorld.cpp
+│   └── 02.inputOutput.cpp
 │
 ├── Python/                     # Python language solutions
 │   ├── [Problem Categories]/
 │   └── [Individual Problem Files]
 │
 ├── 30_Days_of_Code/            # 30 Days of Code Challenge
-│   ├── day_1/
-│   ├── day_2/
-│   └── ... (days 1-30)
+│   ├── Day00-HelloWorld.c
+│   ├── Day00-HelloWorld.cpp
+│   ├── Day00-HelloWorld.py
+│   ├── Day01-DataTypes.c
+│   ├── Day01-DataTypes.cpp
+│   ├── Day01-DataTypes.py
+│   └── Day02-Operators.c
 │
 └── Competitions/               # Competition code and solutions
-    ├── [Competition Name]/
-    └── [Solution Files]
+    ├── YCPC2k25-Beginner
+    └── YCPC2k25-GrandFinal
 ```
 
-## 🎯 Problem Categories
-
-Solutions are organized by category including:
-- **Data Structures** - Arrays, Linked Lists, Stacks, Queues, Trees, Graphs
-- **Algorithms** - Sorting, Searching, Dynamic Programming, Greedy, BFS/DFS
-- **Mathematics** - Number Theory, Combinatorics, Geometry
-- **String Manipulation** - Pattern Matching, Parsing, Transformations
-- **Implementation** - Real-world problem scenarios
-- **SQL** - Database queries and operations
+<!-- ## 🎯 Problem Categories -->
+<!---->
+<!-- Solutions are organized by category including: -->
+<!-- - **Data Structures** - Arrays, Linked Lists, Stacks, Queues, Trees, Graphs -->
+<!-- - **Algorithms** - Sorting, Searching, Dynamic Programming, Greedy, BFS/DFS -->
+<!-- - **Mathematics** - Number Theory, Combinatorics, Geometry -->
+<!-- - **String Manipulation** - Pattern Matching, Parsing, Transformations -->
+<!-- - **Implementation** - Real-world problem scenarios -->
+<!-- - **SQL** - Database queries and operations -->
 
 ## 🚀 Getting Started
 
@@ -71,15 +75,15 @@ g++ -o output filename.cpp
 python3 filename.py
 ```
 
-## 📚 30 Days of Code
-
-The `30_Days_of_Code/` directory contains daily challenges covering:
-- Day 1-5: Fundamentals and basic I/O
-- Day 6-15: Data structures and control flow
-- Day 16-25: Advanced algorithms and problem-solving techniques
-- Day 26-30: Complex problems and optimization
-
-Each day's solution is self-contained with comments explaining the approach.
+<!-- ## 📚 30 Days of Code -->
+<!---->
+<!-- The `30_Days_of_Code/` directory contains daily challenges covering: -->
+<!-- - Day 1-5: Fundamentals and basic I/O -->
+<!-- - Day 6-15: Data structures and control flow -->
+<!-- - Day 16-25: Advanced algorithms and problem-solving techniques -->
+<!-- - Day 26-30: Complex problems and optimization -->
+<!---->
+<!-- Each day's solution is self-contained with comments explaining the approach. -->
 
 ## 🏆 Competitions
 
@@ -105,12 +109,6 @@ Most solutions include:
 - **Time Complexity** - O(n) analysis
 - **Space Complexity** - Memory usage analysis
 
-## 📊 Statistics & Progress
-
-- **Total Problems Solved**: [Update as you progress]
-- **Languages Used**: C, C++, Python
-- **Difficulty Levels**: Easy, Medium, Hard
-- **Current Streak**: [Track your progress]
 
 ## 🎓 Learning Goals
 
@@ -143,6 +141,7 @@ These solutions are provided for educational purposes.
 ---
 
 **Last Updated**: 24-05-2026 
+
 **Status**: Actively Adding New Solutions
 
 *Happy Problem Solving! 🚀*
