@@ -1,5 +1,5 @@
 /*
- * problem :  
+ * problem : Summation from 1 to N 
  * writer  : Ibnul Misbah
  * source  : Codeforces
  */

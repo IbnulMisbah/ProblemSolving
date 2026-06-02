@@ -1,5 +1,5 @@
 /*
- * problem :  
+ * problem : Digits Summation 
  * writer  : Ibnul Misbah
  * source  : Codeforces
  */
